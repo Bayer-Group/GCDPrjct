@@ -18,7 +18,7 @@ These activities were performed while wearing a smartphone (Samsung Galaxy S II)
 
 Tidy Dataset 1
 ---------------
-Experimental data were read from source files, labelled/reformatted, and combined according to the steps in run_analysis.R
+Experimental data were read from source files, labelled/reformatted, and combined according to the steps in run_analysis.R.
 According to the project goals, variables were selected for Tidy Dataset1 as those which were mean or standard deviations of experimental measurements.
 
 After the first two variables, each following variable name contains several of the following standard parts:
